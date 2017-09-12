@@ -27,12 +27,12 @@ class Site_model extends Model
 {
 	/**
 	 * Генерирует данные для
-	 * шаблонного тега <insert name="show_statistic" module="site">:
+	 * шаблонного тега <insert name="show_statistics" module="site">:
 	 * выводит статистику по посетителям и заказам.
 	 *
 	 * @return void
 	 */
-	new public function show_statistic()
+	new public function show_statistics()
 	{
 		$result = array();
 

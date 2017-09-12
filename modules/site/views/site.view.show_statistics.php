@@ -2,14 +2,12 @@
 /**
  * Шаблон блока на сайте
  * 
- * Шаблонный тег <insert name="show_block" module="site" id="номер_страницы" [template="шаблон"]>:
+ * Шаблонный тег <insert name="show_statistics" module="site" id="номер_страницы" [template="шаблон"]>:
  * выводит блок на сайте
  * 
  * @package    DIAFAN.CMS
- * @author     diafan.ru
- * @version    6.0
- * @license    http://www.diafan.ru/license.html
- * @copyright  Copyright (c) 2003-2017 OOO «Диафан» (http://www.diafan.ru/)
+ * @author     Goomb
+ * @version    1.0
  */
 
 if (! defined('DIAFAN'))

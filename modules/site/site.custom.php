@@ -30,10 +30,10 @@ class Site extends Controller
 	 *
 	 * @return void
 	 */
-	new public function show_statistic()
+	new public function show_statistics()
 	{
-		$result = $this->model->show_statistic();
+		$result = $this->model->show_statistics();
 		
-		echo $this->diafan->_tpl->get('show_statistic', 'site', $result);
+		echo $this->diafan->_tpl->get('show_statistics', 'site', $result);
 	}
 }
