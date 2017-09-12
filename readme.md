@@ -12,11 +12,11 @@
     - количество совершенных за сутки заказов.
 
 # Установка
-- Создать новую тему в разделе "Темы и дизайн" сайта(http://название_сайта/admin/custom/):
+- Создать новую тему в разделе "Темы и дизайн" сайта(http://название_сайта/admin/custom/):  
 ![Темы и дизайн](/step_1.png)
-- Импортировать архив с темой [statistics.zip](https://github.com/Goomb/site-statistics/blob/master/statistics.zip)
+- Импортировать архив с темой [statistics.zip](https://github.com/Goomb/site-statistics/blob/master/statistics.zip)  
 ![Импорт модуля](/step_2.png)
-- При создании отметить опцию «Применить»
+- При создании отметить опцию «Применить»  
 ![Применение темы](/step_3.png)
 
 # Использование
